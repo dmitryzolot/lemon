@@ -1,0 +1,106 @@
+body {
+	background-color: #eaeaea;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+li {
+	list-style: none;
+}
+
+.main-site-logo {
+	margin-left: auto;
+	margin-right: auto;
+	width: 384px;
+	margin-bottom: 120px;
+	margin-top: 80px;
+}
+
+.top-nav {
+	background-color: #ffffff;
+	display: flex;
+	justify-content: space-around;
+	width: 932px;
+	margin:auto;
+	padding-top: 44px;
+}
+
+.top-nav div{
+	margin-top:auto;
+	margin-bottom: auto;
+}
+
+.top-nav-wrapper {
+	background-color: #ffffff;
+	width: 1120px;
+	height: 123px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 80px;
+}
+
+.site-navigation ul {
+	display: flex;
+}
+
+.site-navigation li {
+	padding-right: 20px;
+}
+
+.main-content{
+	background:url(../img/Photo.png) no-repeat;
+	width:1120px;
+	min-height:480px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 85px;
+	background-color: #ffffff;
+}
+
+.recipe-text {
+	width: 350px;
+	margin-left: 94px;
+	padding-top: 44px;
+}
+
+.additional-content {
+	display: flex;
+	justify-content: space-around;
+	width:1120px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 80px;
+	background-color: #ffffff;
+}
+
+.bottom-nav {
+	background-color: #2f2f2f;
+	display: flex;
+}
+
+.bottom-nav {
+	display: flex;
+	justify-content: space-around;
+	color: #fefefe;
+}
+
+.footer-site-navigation ul {
+	display: flex;
+	color: #fefefe;
+}
+
+.footer-site-navigation a {
+	color: #fefefe;
+	padding-right: 20px
+}
+
+.bottom-nav-wrapper {
+	background-color: #2f2f2f;
+	width: 1120px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+}
